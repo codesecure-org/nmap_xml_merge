@@ -18,7 +18,7 @@ Installation
 
 To install nmap_xml_merge, simply clone the repository:
 
-    git clone https://github.com/codesecure-org/nmap_xml_merge.git
+    git clone https://github.com/exploit-development/nmap_xml_merge.git
 
 Navigate to the cloned directory:
 
